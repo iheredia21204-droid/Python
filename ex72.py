@@ -25,3 +25,4 @@ with open("Ex12.txt", "r", encoding="utf-8") as fitxer:
 
 # 6. Mostrar la llista final
 print(llista_noms)
+
